@@ -1,0 +1,23 @@
+{
+  "name": "huhuiyu.cn",
+  "version": "1.0.0",
+  "description": "胡辉煜的网站",
+  "author": "胡辉煜",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huhuiyu/huhuiyu.projects.git"
+  },
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.4.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-file-sync": "^1.0.7",
+    "gulp-jshint": "^2.0.4",
+    "gulp-plumber": "^1.1.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-watch": "^4.3.11",
+    "jshint": "^2.9.4"
+  }
+}
