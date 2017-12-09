@@ -1,7 +1,7 @@
 (function() {
     // 初始化应用程序
     function initApp($rootScope, $log) {
-        $rootScope.AppTitle = "胡辉煜的网站";
+        $rootScope.AppTitle = "快乐程序猿-胡辉煜的网站";
         $rootScope.icp = AppConfig.icp;
         $log.info(AppConfig.appname, " init==>...");
         $log.debug("初始化配置：", AppConfig);
